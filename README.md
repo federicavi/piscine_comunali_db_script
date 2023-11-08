@@ -1,7 +1,7 @@
 README - Script SQL per la Creazione di un Database
 
-Questo script SQL è stato progettato per creare le tabelle necessarie per la creazione di un database chiamato "piscine_comunali". 
-un database progettato per gestire informazioni relative alle piscine, ai corsi, agli istruttori, agli iscritti e altro. 
+Questo script SQL è stato progettato per creare le tabelle necessarie per la creazione di un database chiamato "piscine_comunali", 
+che è stato progettato per simulare la gestione delle informazioni relative alle piscine, ai corsi, agli istruttori, agli iscritti e altro. 
 
 STRUTTURA 
 
