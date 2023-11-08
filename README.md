@@ -5,10 +5,9 @@ che è stato progettato per simulare la gestione delle informazioni relative all
 
 STRUTTURA 
 
-Il Database presenta diverse tabelle che gestiscono diversi tipi di relazioni.\n
-Sono infatti presenti diverse tabelle ponte per le relazioni molti-a-molti.
+Il Database presenta diverse tabelle che gestiscono diversi tipi di relazioni come le tabelle ponte per le relazioni molti-a-molti.
 
-Di seguito alcuni esempi:
+Di seguito alcuni esempi di tabelle ponte:
 
 Tabella corsi_istruttore:
 
